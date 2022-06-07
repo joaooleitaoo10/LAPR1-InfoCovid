@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfoCovid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfoCovid_jar</output-path>
+    <root id="archive" name="InfoCovid.jar">
+      <element id="module-output" name="InfoCovid" />
+    </root>
+  </artifact>
+</component>
